@@ -1,0 +1,155 @@
+*{
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+#wylogowanie{
+  position: absolute;
+  top: 20%;
+  left: 85%;
+  font-size: 20px;
+  padding: 10px 25px;
+  margin: 0 15px;
+  text-align: center;
+  border-radius: 25px;
+  border: 2px solid #556B2F;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+
+.tło{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(ciemnylas.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+
+.Nagłówek{
+  position: absolute;
+  width: 100%;
+  height: 5em;
+  text-align: center;
+  top: 5%;
+}
+
+.Nagłówek h1{
+  font-size: 50px;
+}
+
+.Nagłówek p{
+  font-size: 30px;
+  font-style: oblique;
+  margin-top: 10px;
+}
+
+.Dane h1{
+  position: absolute;
+  width: 95%;
+  font-size: 30px;
+  font-weight: 100;
+  margin-bottom: 10px;
+  margin-left: 25px;
+  position: absolute;
+  top: 88%;
+}
+
+.Dane p{
+  position: absolute;
+  width: 98%;
+  font-size: 30px;
+  font-weight: 100;
+  margin-bottom: 15px;
+  margin-right: 25px;
+  position: absolute;
+  top: 88%;
+  text-align: right;
+}
+
+.Projekt1{
+  position: absolute;
+  width: 100%;
+  height: 10em;
+  padding: 35px;
+  text-align: center;
+  font-size: 14px;
+  top: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Projekt2 {
+  position: absolute;
+  width: 98%;
+  height: 10em;
+  margin: 15px;
+  text-align: center;
+  font-size: 14px;
+  top: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Projekt3 {
+  position: absolute;
+  width: 98%;
+  height: 10em;
+  padding: 25px;
+  margin: 15px;
+  text-align: center;
+  font-size: 14px;
+  top: 43%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Projekt4{
+  position: absolute;
+  width: 100%;
+  height: 10em;
+  padding: 35px;
+  text-align: center;
+  font-size: 14px;
+  top: 57%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Projekt5{
+  position: absolute;
+  width: 100%;
+  height: 10em;
+  padding: 35px;
+  text-align: center;
+  font-size: 14px;
+  top: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button{
+  font-size: 25px;
+  text-decoration: none;
+  padding: 15px 35px;
+  margin: 0 15px;
+  text-align: center;
+  border-radius: 25px;
+  border: 2px solid #666600;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.Projekt1.button:hover{
+  background-color: #625750;
+}
