@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href="Faktura.xslt" ?>
+  <dokument>
+    <FakturaNR>12/10/2/11</FakturaNR>
+    <miejscowoscData>Warszawa, 27.03.2022</miejscowoscData>
+    <terminPlatnosci>25.05.2022</terminPlatnosci>
+    <formaPlatnosci>Przelew</formaPlatnosci>
+    <dataWykonania>29.05.2022</dataWykonania>
+    <Sprzedawca>X-kom
+                    ul. Bojemskiego 25
+                    42-202 Częstochowa</Sprzedawca>
+    <Nabywca>Szkoła Główna Gospodarstwa Wiejskiego w Warszawie
+                    ul. Nowoursynowska 166
+                    02-787 Warszawa</Nabywca>
+    <NrKonta>PL83101010230000261395100000</NrKonta>
+    <Towar>
+      <krzesło>
+          <name>Fotel Gamvis</name>
+          <ilosc>2</ilosc>
+          <cenanetto>1200</cenanetto>
+          <stawkavat>23</stawkavat>
+      </krzesło>
+      <krzesło>
+          <name>Fotel SENSE7</name>
+          <ilosc>3</ilosc>
+          <cenanetto>820</cenanetto>
+          <stawkavat>23</stawkavat>
+      </krzesło>
+      <krzesło>
+          <name>Fotel DiabloChair</name>
+          <ilosc>4</ilosc>
+          <cenanetto>440</cenanetto>
+          <stawkavat>23</stawkavat>
+      </krzesło>
+    </Towar>
+    <Wystawil>X-kom
+                    ul. Bojemskiego 25
+                    42-202 Częstochowa</Wystawil>
+    <Odebral>Aleksander Lewicki
+                    Wydział Zastosowań Informatyki i Matematyki</Odebral>
+  </dokument>
