@@ -1,0 +1,78 @@
+.tytuł{
+  width: auto;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.PWers{
+  width: auto;
+  height: auto;
+  text-align: center;
+  padding: 10px;
+  display: inline-block;
+}
+
+#część1, #część2, #część3{
+  float: left;
+  box-sizing: border-box;
+  width: 33%;
+  line-height: 150%;
+  border: 0px solid red;
+  padding: 0px;
+  margin: 0;
+}
+
+.Dwers{
+  width: auto;
+  height: auto;
+  text-align: center;
+  padding: 10px;
+  display: inline-block;
+
+}
+
+#część4{
+  float: left;
+  width: 100%;
+  line-height: 150%;
+  border: 0px solid red;
+  padding: 0;
+  margin: 0;
+}
+
+.TWers{
+  width: auto;
+  height: auto;
+  text-align: center;
+  padding: 10px;
+  display: inline-block;
+}
+
+#część5,#część6{
+  float: left;
+  box-sizing: border-box;
+  width: 50%;
+  line-height: 150%;
+  border: 0px solid red;
+  padding: 0px;
+  margin: 0;
+}
+
+.CzWers{
+  width: 98%;
+  height: auto;
+  text-align: center;
+  padding: 10px;
+  display: inline-block;
+}
+
+#część7,#część8,#część9,#część10,#część11{
+  float: left;
+  box-sizing: border-box;
+  width: 20%;
+  line-height: 150%;
+  border: 0px solid red;
+  padding: 0px;
+  margin: 0;
+}
+	
