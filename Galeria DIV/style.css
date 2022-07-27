@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  max-width: 1200px;
+  margin: auto;
+  overflow: visible;
+}
+
+.tytuł{
+  width: 100%;
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 20px;
+}
+
+.zdjecia{
+  width: 340px;
+  margin: 30px;
+  border-radius: 10px;
+  border: 2px solid #CCC;
+  box-shadow: 2px 2px 5px lightgray;
+  float: left;
+}
+
+.zdjecia img{
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px lightgray;
+}
+
+.opis{
+  padding: 15px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+}
