@@ -1,9 +1,17 @@
-# Web-Development
-My first Website created with various tools like: HTML5, CSS, JS, PHP, XML, Regular Expressions
+## Web-Development
+#### Projekt Strony internetowej, wykonany za pomocą różnych technologii na rzecz przedmiotu: 
+#### ,,Budowa Serwisów Internetowych" na studiach inżynierskich.
+###
+#### http://alexwzim.cba.pl/
+#### Login: Aleksander 
+#### Password: Lewicki 
+-------------------------------------------------------------
+## Wykorzystane technologie w poszczególnych projektach:
+#### Baza (Baza umożliwiająca dodawanie oraz usuwanie dowolnych produktów)
 
-http://alexwzim.cba.pl/
+HTML, CSS, PHP, MYSQL
 
-login: Aleksander 
-password: Lewicki 
+#### Faktura
 
-Code: soon
+XML, XSLT, CSS, HTML
+
