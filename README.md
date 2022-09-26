@@ -7,11 +7,11 @@
 #### Password: Lewicki 
 -------------------------------------------------------------
 ## Wykorzystane technologie w poszczególnych projektach:
-#### Tabela Tekstu (Pierwszy projekt, Podział tekstu na stronie z wykorzystaniem tabeli w html'u: <tr>, <th>)
+#### Tabela Tekstu (Pierwszy projekt, Podział tekstu na stronie z wykorzystaniem tabeli w html'u: tr, th)
 
 PHP, HTML, CSS
 
-#### Galeria Zdjęć (Umiejscowienie zdjęć na stronie za pomocą tabeli w html'u: <tr>, <td>)
+#### Galeria Zdjęć (Umiejscowienie zdjęć na stronie za pomocą tabeli w html'u: tr, td)
 
 PHP, HTML, CSS
 
